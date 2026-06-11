@@ -1,0 +1,1 @@
+Cuando consultas los reportes, el sistema recupera y presenta los datos que han sido registrados. Esto ayuda a conocer el estado de las actividades, identificar posibles problemas, analizar información histórica y llevar un control adecuado de los procesos realizados.
